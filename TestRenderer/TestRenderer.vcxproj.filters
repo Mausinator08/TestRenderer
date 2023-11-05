@@ -37,9 +37,6 @@
     <Image Include="TestRenderer.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="texture.png">
-      <Filter>Resource Files</Filter>
-    </Image>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TestRenderer.cpp">

@@ -145,7 +145,6 @@
   <ItemGroup>
     <Image Include="small.ico" />
     <Image Include="TestRenderer.ico" />
-    <Image Include="texture.png" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

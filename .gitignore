@@ -21,6 +21,10 @@
 *.mod
 *.smod
 
+# Libraries
+*.lib
+*.dll
+
 # Executables
 *.exe
 *.out
